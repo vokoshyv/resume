@@ -1,7 +1,9 @@
-# [resume](http://vokoshyv.github.io/resume/)
+# Online Presence: 
 
-# [blog](http://vokoshyv.com/)
+### [resume](http://vokoshyv.github.io/resume/)
 
-# [LinkedIn](https://www.linkedin.com/in/vokoshyv)
+### [blog](http://vokoshyv.com/)
 
-# [AngelList](https://angel.co/aaron-ron-tsui)
+### [LinkedIn](https://www.linkedin.com/in/vokoshyv)
+
+### [AngelList](https://angel.co/aaron-ron-tsui)
