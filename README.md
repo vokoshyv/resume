@@ -1,8 +1,8 @@
 # Online Presence: 
 
-### [resume](http://vokoshyv.github.io/resume/)
+### [Resume](http://vokoshyv.github.io/resume/)
 
-### [blog](http://vokoshyv.com/)
+### [Blog](http://vokoshyv.com/)
 
 ### [LinkedIn](https://www.linkedin.com/in/vokoshyv)
 
